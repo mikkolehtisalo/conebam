@@ -65,7 +65,7 @@ Tämän jälkeen kokeillaan suodatusta proxyn lävitse. Sivusto bbc.co.uk/news t
 
 Urheilu-uutisten etusivu ei vielä laukaise suodatusta, todennäköisesti koska sivulla on paljon muutakin uutisiin liittyvää sisältöä.
 
-![https://www.bbc.com/sport](https://github.com/mikkolehtisalo/conebam/raw/master/bbc1.png "https://www.bbc.com/sport")
+![https://www.bbc.com/sport](https://github.com/mikkolehtisalo/conebam/raw/master/bbc2.png "https://www.bbc.com/sport")
 
 Nyrkkeilyä koskeva uutinen on jo selvästi urheilua ja estetty.
 
