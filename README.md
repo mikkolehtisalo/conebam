@@ -1,6 +1,6 @@
 # Sisällönsuodatus luonnollisen kielen analyysillä
 
-Kiinnosti kokeilla toimisiko luonnollisen kielen analyysi webbi-sivujen sisällönsuodatuksessa. Niinpä väkästelin pienen [python-sovelluksen](github.com/mikkolehtisalo/conebam), joka laajentaa välityspalvelinta suodatusominaisuuksilla. Sisältötyypit tunnistaa [Googlen luonnollisen kielen analyysin palvelu](https://cloud.google.com/natural-language/docs/).
+Kiinnosti kokeilla toimisiko luonnollisen kielen analyysi webbi-sivujen sisällönsuodatuksessa. Niinpä väkästelin pienen [python-sovelluksen](https://github.com/mikkolehtisalo/conebam), joka laajentaa välityspalvelinta suodatusominaisuuksilla. Sisältötyypit tunnistaa [Googlen luonnollisen kielen analyysin palvelu](https://cloud.google.com/natural-language/docs/).
 
 Arkkitehtuurikuvatus:
 
